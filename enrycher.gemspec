@@ -4,9 +4,9 @@ require File.expand_path('../lib/enrycher/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Ezekiel Templin"]
   gem.email         = ["zeke@templ.in"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{A Ruby interface to Enrycher text-processing API}
+  gem.summary       = %q{A Ruby interface to Enrycher text-processing API}
+  gem.homepage      = "https://github.com/ezkl/enrycher"
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

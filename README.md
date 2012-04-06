@@ -1,6 +1,6 @@
 # Enrycher
 
-This is a stupid, simple gem 5 minute gem I wrote to play with the [Enrycher](http://ailab.ijs.si/tools/enrycher/) text-processing API.
+This is a stupidly simple 5 minute gem I wrote to play with the [Enrycher](http://ailab.ijs.si/tools/enrycher/) text-processing API.
 
 ## Install
 
